@@ -104,7 +104,7 @@ class Organize :
         cwd = os.getcwd()
         
         for entry in os.scandir() :
-            if entry.is_dir() == False :
+            if entry.is_dir() == False:
                 file_path = os.path.abspath(entry)
                 
                 # The Size Of The Files .
