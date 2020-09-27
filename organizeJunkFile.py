@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sat Sep 12 21:48:15 2020
-
 @author: Roushan
 """
 
